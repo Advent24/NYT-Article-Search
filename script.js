@@ -21,5 +21,9 @@ function callArticles() {
     
     // }
 
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> dev
